@@ -367,7 +367,7 @@ This job repository provides daily updates and tracks the latest  H1B sponsorshi
 | ↳ | Software Engineer, Cloud |  mid-level  | REMOTE | 🥈 | [apply](https://jobright.ai/jobs/info/65cf84b1196f791c4249e2e2?utm_source=1008) | 2024-02-26 |
 | **[PsiQuantum](https://www.psiquantum.com)** | Systems Engineer |  Mid-Level  | Palo Alto, CA | 🥈 | [apply](https://jobright.ai/jobs/info/65ddaa034ed5c743c951ee8d?utm_source=1008) | 2024-02-26 |
 | **[Stackline](https://www.stackline.com)** | Full Stack Engineer II |  Mid-Level  | Seattle, WA | 🥈 | [apply](https://jobright.ai/jobs/info/656a8ddea8011d9dccc871f7?utm_source=1008) | 2024-02-26 |
-| **[Tesla](https://www.tesla.com)** | Engineering Technician, Failure Analysis, Battery Electronics |  Mid-Level  | Palo Alto, CA | 🥈 | [apply](https://jobright.ai/jobs/info/652a2d7152e17f482d8a221e?utm_source=1008) | 2024-02-26 |
+| **[Tesla](https://www.tesla.com)** | Quality Engineering Technician, General Assembly Model 3 |  mid-level  | Fremont, CA | 🥈 | [apply](https://jobright.ai/jobs/info/652a3e1991f5dd20e42e1d39?utm_source=1008) | 2024-02-26 |
 | **[Black & Veatch](http://bv.com/Home)** | Substation Design - Electrical Engineer 3 - Dallas, TX (Hybrid) |  Mid-Level  | Fort Worth, TX | 🏅 | [apply](https://jobright.ai/jobs/info/6584bcc7ecb6f97002d0b264?utm_source=1008) | 2024-02-25 |
 | ↳ | Electrical Engineer 1 - Bloomington |  Entry-Level/Junior  | Bloomington, MN | 🏅 | [apply](https://jobright.ai/jobs/info/65a10f084dda7c332b95551d?utm_source=1008) | 2024-02-25 |
 | ↳ | Substation Design - Electrical Engineer 4 - Houston, TX (Hybrid) |  Senior  | Houston, TX | 🏅 | [apply](https://jobright.ai/jobs/info/6584bcbaecb6f97002d0b000?utm_source=1008) | 2024-02-25 |
